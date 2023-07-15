@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactproject/static/css/main.b85c03b8.css",
+    "main.js": "/reactproject/static/js/main.5bd50f71.js",
+    "static/media/about.png": "/reactproject/static/media/about.0290bb5a48c48e1b374a.png",
+    "static/media/people.png": "/reactproject/static/media/people.e6f42ab3e581a83b9a83.png",
+    "static/media/background.png": "/reactproject/static/media/background.980493c75a48f2e7e650.png",
+    "static/media/third.png": "/reactproject/static/media/third.0784df08ccd9c65ebb53.png",
+    "static/media/first.png": "/reactproject/static/media/first.66c20773501b3d8b20b2.png",
+    "static/media/second.png": "/reactproject/static/media/second.031d0078760df3c9eff3.png",
+    "static/media/presentation1.png": "/reactproject/static/media/presentation1.c414e7b2da2782134fd2.png",
+    "static/media/aboutDetails.png": "/reactproject/static/media/aboutDetails.df9272139972d84611b0.png",
+    "index.html": "/reactproject/index.html",
+    "main.b85c03b8.css.map": "/reactproject/static/css/main.b85c03b8.css.map",
+    "main.5bd50f71.js.map": "/reactproject/static/js/main.5bd50f71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b85c03b8.css",
+    "static/js/main.5bd50f71.js"
+  ]
+}
