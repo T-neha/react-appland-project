@@ -2,4 +2,4 @@ Welcome to Appland, The best app to manage your modern lifestyle! This demo webs
 
 The website is built using React.js, making it highly responsive and efficient.
 
-Project url: 
+Project url: https://t-neha.github.io/react-appland-project/
